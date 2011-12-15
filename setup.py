@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Ctypes backend based on Vjeux's <http://github.com/vjeux/pyStormLib>
-
 import os.path
 from distutils.core import setup, Extension
 
